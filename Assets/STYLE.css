@@ -1,0 +1,32 @@
+.input {
+  border: solid;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  text-align: center;
+  padding: 15px;
+}
+.Btn {
+  padding: 15px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  transition-property: all;
+  transition-duration: 200ms;
+}
+.Btn:active {
+  opacity: 0.5;
+  box-shadow: 2px 2px 2px;
+}
+.video {
+  border-radius: 15px;
+
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
